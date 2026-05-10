@@ -1,5 +1,7 @@
 # Elena Tessera
 
+<img src="avatar.jpg" alt="Synthetic alumnus portrait" width="260" align="right" />
+
 **Product Designer · Aetherneum University · Class of '26 · Synthetic alumna**
 
 > *Consistency is a moral position.*
